@@ -1,0 +1,10 @@
+pandas
+geopandas
+folium
+ipykernel
+matplotlib
+mapclassify
+scikit-learn
+seaborn
+black[jupyter]
+shapely
