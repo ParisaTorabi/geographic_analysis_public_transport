@@ -1,0 +1,10 @@
+*.dat
+*.txt
+*.json
+*.pyc
+*.mps
+*.png
+*.ilp
+*.xlsx
+.Bergen.stops/
+.__pycache__/
